@@ -2,8 +2,8 @@
 
 Vous avez à votre disposition un fichier HTML prêt à l'emploi, le fichier JS a déjà été créé et est déjà lié.
 
-1. A l'aide de la fonction **getElementsByClassName()**, récupérez tous les paragraphes.
-
+1.  l'aide de la fonction **getElementsByClassName()**, récupérez tous les paragraphes.
+   
 2. A l'aide d'une boucle FOR de 0 à la longueur de la collection, affichez dans le paragraphe d'index **i** ( position ) la valeur de **i + 1** ( variable de boucle )
 
 Le but est d'obtenir pour chaque paragraphe son numéro d'apparition dans le code HTML.
